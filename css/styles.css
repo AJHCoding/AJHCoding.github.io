@@ -87,8 +87,8 @@ border-style: solid;
 }
 
 /* Main styling */
-main{
-
+main h3, main h4{
+    text-align: center;
 }
 
 main p{
